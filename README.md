@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Kamaleshwaran V 👋
 
-<!--
-**kamaleshwaran-0911/kamaleshwaran-0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-Year Electronics and Communication Engineering Student
 
-Here are some ideas to get you started:
+💻 Aspiring Backend Developer | Cloud & DevOps Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an engineering student interested in building reliable backend
+applications and learning how modern software is developed, deployed,
+and maintained.
+
+### 🚀 Current Focus
+- Backend development with Python and FastAPI
+- Database management with PostgreSQL and SQLAlchemy
+- REST API development and JWT authentication
+- Learning Cloud Computing and DevOps
+- Building practical software projects
+
+### 🛠️ Technologies & Tools
+- Languages: Python, SQL
+- Backend: FastAPI, REST APIs, JWT Authentication
+- Database: PostgreSQL, SQLAlchemy
+- Tools: Git, GitHub, VS Code
+
+### 📌 Featured Project
+**Expert Decision Replay Platform**
+A collaborative decision-management application featuring decision
+tracking, alternative analysis, approval workflows, and reporting.
+
+Tech Stack: Python, FastAPI, PostgreSQL, SQLAlchemy
+
+### 🎯 Career Goal
+To grow as a software developer and build expertise in backend
+engineering, cloud technologies, and DevOps.
+
+### 🤝 Let's Connect
+I'm interested in collaborating on projects and learning from
+developers working on real-world applications.
